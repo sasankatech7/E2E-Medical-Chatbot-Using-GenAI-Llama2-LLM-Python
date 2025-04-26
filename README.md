@@ -15,9 +15,14 @@ conda activate medical-chatbot
 
 ```bash
 3. Install Libraries
-    i.      ctransformers==4.51.3 - https://pypi.org/project/transformers/#history   
+    i.      ctransformers==0.2.27 - https://pypi.org/project/transformers/#history   
     ii.     sentence-transformers=4.1.0
     iii.    pinecone-client
     iv.     langchain==0.3.24
     v.      flask
+```
+
+```bash
+4. Install all Libraries inside requirements.txt
+pip install -r requirements.txt
 ```
