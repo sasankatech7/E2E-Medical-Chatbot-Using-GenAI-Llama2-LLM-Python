@@ -26,3 +26,9 @@ conda activate medical-chatbot
 4. Install all Libraries inside requirements.txt
 pip install -r requirements.txt
 ```
+
+```bash
+5. Download Llama2 Model
+llama-2-7b-chat.ggmlv3.q4_1.bin
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+```
