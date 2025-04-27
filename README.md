@@ -19,7 +19,8 @@ conda activate medical-chatbot
     ii.     sentence-transformers=4.1.0
     iii.    pinecone-client
     iv.     langchain==0.3.24
-    v.      flask
+    v.      langchain-community
+    vi.      flask
 ```
 
 ```bash

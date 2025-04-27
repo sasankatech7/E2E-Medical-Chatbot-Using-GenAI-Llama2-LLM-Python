@@ -1,5 +1,8 @@
 ctransformers==0.2.27
 sentence-transformers==4.1.0
-pinecone-client
+pinecone==6.0.2
 langchain==0.3.24
+langchain-community
 flask
+pypdf
+python-dotenv
